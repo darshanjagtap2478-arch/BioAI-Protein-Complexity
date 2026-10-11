@@ -1,0 +1,511 @@
+Biological_Normal_20
+Cellular Component
+GO:0110165,cellular anatomical structure,0.743373122215271
+GO:0005622,intracellular anatomical structure,0.705980898141861
+GO:0043226,organelle,0.664230451583862
+GO:0043229,intracellular organelle,0.662528004646301
+GO:0016020,membrane,0.621215809583664
+GO:0043227,membrane-bounded organelle,0.614112263917923
+GO:0005737,cytoplasm,0.599643137454987
+GO:0032991,protein-containing complex,0.465421652793884
+GO:0043228,membraneless organelle,0.457940573096275
+GO:0043232,intracellular membraneless organelle,0.454697706699371
+GO:0005829,cytosol,0.44972416639328
+GO:0071944,cell periphery,0.399368606209755
+GO:0031090,organelle membrane,0.391906472444534
+GO:0005886,plasma membrane,0.390811241269112
+GO:0005929,cilium,0.384393924474716
+GO:0030990,intraciliary transport particle,0.384393924474716
+GO:0042995,cell projection,0.384393924474716
+GO:0098590,plasma membrane region,0.384393924474716
+GO:0120025,plasma membrane bounded cell projection,0.384393924474716
+GO:0005856,cytoskeleton,0.376429222226143
+GO:0015630,microtubule cytoskeleton,0.376429222226143
+GO:0098588,bounding membrane of organelle,0.366267142295837
+GO:0005815,microtubule organizing center,0.358485299348831
+GO:0031253,cell projection membrane,0.3518181681633
+GO:0034464,BBSome,0.3518181681633
+GO:0036064,ciliary basal body,0.3518181681633
+GO:0060170,ciliary membrane,0.3518181681633
+Molecular Function
+Biological Process
+GO:0009987,cellular process,0.778211342990398
+GO:0051179,localization,0.621801631450653
+GO:0051234,establishment of localization,0.612231674790382
+GO:0051641,cellular localization,0.60931475430727
+GO:0006810,transport,0.608486895859241
+GO:0051649,establishment of localization in cell,0.60305817425251
+GO:0071840,cellular component organization or biogenesis,0.458081806302071
+GO:0016043,cellular component organization,0.449987410306931
+GO:0006996,organelle organization,0.437248663902283
+GO:0044085,cellular component biogenesis,0.426634695529938
+GO:0022607,cellular component assembly,0.419328519701958
+GO:0007017,microtubule-based process,0.407910458743572
+GO:0033036,macromolecule localization,0.405273889899254
+GO:0007010,cytoskeleton organization,0.400812200605869
+GO:0000226,microtubule cytoskeleton organization,0.399460625648498
+GO:0061024,membrane organization,0.399398565590382
+GO:0008104,intracellular protein localization,0.398396489322185
+GO:0033365,protein localization to organelle,0.397179029583931
+GO:0046907,intracellular transport,0.395779043138027
+GO:0030030,cell projection organization,0.393864198923111
+GO:0120036,plasma membrane bounded cell projection organization,0.393418329358101
+GO:0030031,cell projection assembly,0.393301565051079
+GO:0120031,plasma membrane bounded cell projection assembly,0.393301565051079
+GO:0061025,membrane fusion,0.393082552552223
+GO:0006906,vesicle fusion,0.393077371716499
+GO:0016050,vesicle organization,0.393077371716499
+GO:0016192,vesicle-mediated transport,0.393077371716499
+GO:0048284,organelle fusion,0.393077371716499
+GO:0090174,organelle membrane fusion,0.393077371716499
+GO:0070925,organelle assembly,0.392796445786953
+GO:0051668,localization within membrane,0.392657711803913
+GO:0007018,microtubule-based movement,0.392443281412125
+GO:0140352,export from cell,0.391561476290226
+GO:0006887,exocytosis,0.39122554063797
+GO:0032940,secretion by cell,0.39122554063797
+GO:0046903,secretion,0.39122554063797
+GO:0099500,vesicle fusion to plasma membrane,0.39122554063797
+GO:0140029,exocytic process,0.39122554063797
+GO:0048193,Golgi vesicle transport,0.388923819959164
+GO:0099111,microtubule-based transport,0.388834853768349
+GO:0006892,post-Golgi vesicle-mediated transport,0.388726984858513
+GO:0006893,Golgi to plasma membrane transport,0.388726984858513
+GO:0098876,vesicle-mediated transport to the plasma membrane,0.388726984858513
+GO:0010970,transport along microtubule,0.38855716586113
+GO:0030705,cytoskeleton-dependent intracellular transport,0.38855716586113
+GO:0001578,microtubule bundle formation,0.384393924474716
+GO:0035082,axoneme assembly,0.384393924474716
+GO:0035735,intraciliary transport involved in cilium assembly,0.384393924474716
+GO:0042073,intraciliary transport,0.384393924474716
+GO:0044782,cilium organization,0.384393924474716
+GO:0060271,cilium assembly,0.384393924474716
+GO:0061512,protein localization to cilium,0.384393924474716
+GO:0097712,trans-Golgi to periciliary membrane compartment transport,0.384393924474716
+GO:1905349,ciliary transition zone assembly,0.384393924474716
+Biological_Normal_19
+Cellular Component
+GO:0110165,cellular anatomical structure,0.775379792451859
+GO:0005622,intracellular anatomical structure,0.692603725194931
+GO:0016020,membrane,0.687241971492767
+GO:0043226,organelle,0.64094333589077
+GO:0043229,intracellular organelle,0.630423545241356
+GO:0043227,membrane-bounded organelle,0.613069084882736
+GO:0043231,intracellular membrane-bounded organelle,0.609296952486038
+GO:0005737,cytoplasm,0.5749015635252
+GO:0005634,nucleus,0.468900336027145
+GO:0005739,mitochondrion,0.396167885661125
+GO:0031974,membrane-enclosed lumen,0.319421945810318
+GO:0043233,organelle lumen,0.319421945810318
+GO:0070013,intracellular organelle lumen,0.314995712637901
+GO:0031981,nuclear lumen,0.30674528002739
+Molecular Function
+GO:0005488,binding,0.532873014211655
+GO:0003824,catalytic activity,0.5200790143013
+GO:0016787,hydrolase activity,0.462006811499596
+GO:0016817,"hydrolase activity, acting on acid anhydrides",0.441890893578529
+GO:0016818,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",0.441345283389092
+GO:0016462,pyrophosphatase activity,0.441029626727104
+GO:0017111,ribonucleoside triphosphate phosphatase activity,0.439049740433693
+GO:0016887,ATP hydrolysis activity,0.433559014797211
+GO:0140657,ATP-dependent activity,0.433559014797211
+GO:0140640,"catalytic activity, acting on a nucleic acid",0.42034663438797
+GO:0016853,isomerase activity,0.419513273239136
+GO:0140097,"catalytic activity, acting on DNA",0.416287367939949
+GO:0003678,DNA helicase activity,0.412844256162643
+GO:0004386,helicase activity,0.412844256162643
+GO:0008094,"ATP-dependent activity, acting on DNA",0.412844256162643
+GO:0043139,5'-3' DNA helicase activity,0.412844256162643
+GO:0120543,macromolecular conformation isomerase activity,0.412844256162643
+GO:0120545,nucleic acid conformation isomerase activity,0.412844256162643
+GO:0003676,nucleic acid binding,0.327906028628349
+GO:0003677,DNA binding,0.320310600996017
+GO:0036094,small molecule binding,0.303542385101318
+GO:0043167,ion binding,0.301146000623703
+Biological Process
+GO:0009987,cellular process,0.530658396780491
+GO:0008152,metabolic process,0.420139672756195
+GO:0044238,primary metabolic process,0.389909887313843
+GO:0009058,biosynthetic process,0.364191644489765
+GO:0043170,macromolecule metabolic process,0.345916991829872
+GO:0009059,macromolecule biosynthetic process,0.330702319145203
+GO:0065007,biological regulation,0.327267657518387
+GO:0050789,regulation of biological process,0.321898295581341
+GO:0006139,nucleobase-containing compound metabolic process,0.315790102183819
+GO:0034654,nucleobase-containing compound biosynthetic process,0.315790102183819
+GO:0050794,regulation of cellular process,0.315702394843101
+GO:0090304,nucleic acid metabolic process,0.312849660217762
+GO:0141187,nucleic acid biosynthetic process,0.312849660217762
+Biological_Normal_18
+Cellular Component
+GO:0110165,cellular anatomical structure,0.919444363117218
+GO:0016020,membrane,0.748795827627182
+GO:0005576,extracellular region,0.742571914196014
+GO:0071944,cell periphery,0.643504109978676
+GO:0005886,plasma membrane,0.630515316128731
+GO:0043226,organelle,0.381803939938545
+GO:0043227,membrane-bounded organelle,0.381803939938545
+Molecular Function
+Biological Process
+Biological_Normal_17
+Cellular Component
+GO:0110165,cellular anatomical structure,0.883609176874161
+GO:0016020,membrane,0.814053338766098
+GO:0005622,intracellular anatomical structure,0.793647829294205
+GO:0005737,cytoplasm,0.776196980476379
+GO:0071944,cell periphery,0.769207878112793
+GO:0005886,plasma membrane,0.752431679964066
+GO:0043226,organelle,0.716527194976807
+GO:0043229,intracellular organelle,0.705979849100113
+GO:0043227,membrane-bounded organelle,0.678296551704407
+GO:0043231,intracellular membrane-bounded organelle,0.650568823218346
+GO:0031982,vesicle,0.602942276000977
+GO:0005773,vacuole,0.579841245412827
+GO:0097708,intracellular vesicle,0.578442484736443
+GO:0031410,cytoplasmic vesicle,0.573448668718338
+GO:0012505,endomembrane system,0.508020995259285
+GO:0031090,organelle membrane,0.339759715795517
+GO:0098588,bounding membrane of organelle,0.339759715795517
+GO:0005768,endosome,0.31741267323494
+Molecular Function
+GO:0005488,binding,0.379625689387321
+GO:0003824,catalytic activity,0.347474074959755
+GO:0016462,pyrophosphatase activity,0.347474074959755
+GO:0016787,hydrolase activity,0.347474074959755
+GO:0016817,"hydrolase activity, acting on acid anhydrides",0.347474074959755
+GO:0016818,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",0.347474074959755
+GO:0017111,ribonucleoside triphosphate phosphatase activity,0.344331329464912
+GO:0003924,GTPase activity,0.310312737822533
+GO:0005515,protein binding,0.303953464031219
+Biological Process
+GO:0009987,cellular process,0.740471417307854
+GO:0071840,cellular component organization or biogenesis,0.520084562301636
+GO:0051179,localization,0.468513019382954
+GO:0051234,establishment of localization,0.434528715312481
+GO:0006810,transport,0.405116133391857
+GO:0016043,cellular component organization,0.358948687314987
+GO:0051641,cellular localization,0.330938138365746
+GO:0065007,biological regulation,0.326594747006893
+GO:0050789,regulation of biological process,0.325565691292286
+GO:0050794,regulation of cellular process,0.306350118219852
+GO:0016192,vesicle-mediated transport,0.302818872630596
+Biological_Normal_16
+Cellular Component
+GO:0110165,cellular anatomical structure,0.59515408873558
+GO:0005622,intracellular anatomical structure,0.553410798311234
+GO:0005737,cytoplasm,0.447936930656433
+GO:0016020,membrane,0.409176160097122
+GO:0043226,organelle,0.346283497214317
+GO:0043229,intracellular organelle,0.343495442867279
+GO:0043227,membrane-bounded organelle,0.33857207775116
+GO:0043231,intracellular membrane-bounded organelle,0.337140522003174
+GO:0005829,cytosol,0.305855923891068
+Molecular Function
+GO:0003824,catalytic activity,0.665194563269615
+GO:0016787,hydrolase activity,0.567883396148682
+GO:0140096,"catalytic activity, acting on a protein",0.544061562418938
+GO:0008233,peptidase activity,0.533306356072426
+GO:0019783,ubiquitin-like protein peptidase activity,0.529414483308792
+GO:0101005,deubiquitinase activity,0.529414483308792
+GO:0004843,cysteine-type deubiquitinase activity,0.503066239356995
+GO:0008234,cysteine-type peptidase activity,0.503066239356995
+GO:0005488,binding,0.352682173848152
+Biological Process
+GO:0009987,cellular process,0.750031905472279
+GO:0008152,metabolic process,0.614743859767914
+GO:0044238,primary metabolic process,0.547620880007744
+GO:0043170,macromolecule metabolic process,0.487631506323814
+GO:0050789,regulation of biological process,0.432984964251518
+GO:0065007,biological regulation,0.432984964251518
+GO:0050896,response to stimulus,0.429044574797153
+GO:0050794,regulation of cellular process,0.425109495222568
+GO:0019538,protein metabolic process,0.414122128486633
+GO:0043412,macromolecule modification,0.404167397022247
+GO:0036211,protein modification process,0.399009435176849
+GO:0043687,post-translational protein modification,0.398934679627419
+GO:0070647,protein modification by small protein conjugation or removal,0.398934679627419
+GO:0051716,cellular response to stimulus,0.398452949523926
+GO:0048518,positive regulation of biological process,0.349012711048126
+GO:0070646,protein modification by small protein removal,0.338037197589874
+GO:0048522,positive regulation of cellular process,0.332713808715344
+GO:0009056,catabolic process,0.31777771294117
+Biological_Normal_15
+Cellular Component
+GO:0110165,cellular anatomical structure,0.672433016300201
+GO:0005622,intracellular anatomical structure,0.513150792121887
+GO:0043226,organelle,0.495879148244858
+GO:0043229,intracellular organelle,0.457156566381455
+GO:0016020,membrane,0.444649730920792
+GO:0043227,membrane-bounded organelle,0.433261742591858
+GO:0043231,intracellular membrane-bounded organelle,0.433261742591858
+GO:0005634,nucleus,0.35697917163372
+GO:0031974,membrane-enclosed lumen,0.301843154430389
+Molecular Function
+GO:0005488,binding,0.508224805593491
+GO:0003676,nucleic acid binding,0.336218550801277
+GO:0003723,RNA binding,0.305818966031075
+Biological Process
+GO:0009987,cellular process,0.465162079632282
+GO:0008152,metabolic process,0.41582919627428
+GO:0044238,primary metabolic process,0.382476808726788
+GO:0043170,macromolecule metabolic process,0.33781290948391
+GO:0009058,biosynthetic process,0.328464567065239
+GO:0006139,nucleobase-containing compound metabolic process,0.307316237688065
+GO:0090304,nucleic acid metabolic process,0.302837539613247
+GO:0016070,RNA metabolic process,0.301756773293018
+Biological_Normal_14
+Cellular Component
+GO:0110165,cellular anatomical structure,0.824135360717773
+GO:0005622,intracellular anatomical structure,0.750481343269348
+GO:0005737,cytoplasm,0.687986334562302
+GO:0016020,membrane,0.687706971168518
+GO:0043226,organelle,0.623118143677712
+GO:0043227,membrane-bounded organelle,0.615624396800995
+GO:0043229,intracellular organelle,0.611414424180984
+GO:0043231,intracellular membrane-bounded organelle,0.600673519968987
+GO:0071944,cell periphery,0.533068550825119
+GO:0005886,plasma membrane,0.514153614640236
+GO:0005773,vacuole,0.432597717642784
+GO:0012505,endomembrane system,0.432597717642784
+GO:0005794,Golgi apparatus,0.357288899421692
+Molecular Function
+GO:0003824,catalytic activity,0.452718788385391
+GO:0005488,binding,0.446935197114945
+GO:0016787,hydrolase activity,0.333735408782959
+GO:0036094,small molecule binding,0.300774618387222
+Biological Process
+GO:0009987,cellular process,0.674470845460892
+GO:0065007,biological regulation,0.432890090942383
+GO:0050789,regulation of biological process,0.424263852834702
+GO:0050794,regulation of cellular process,0.420506207346916
+GO:0051179,localization,0.394965215921402
+GO:0008152,metabolic process,0.389596491158009
+GO:0051234,establishment of localization,0.372332080900669
+GO:0006810,transport,0.363345835804939
+GO:0044238,primary metabolic process,0.313106922209263
+Biological_Normal_13
+Cellular Component
+GO:0110165,cellular anatomical structure,0.827497888803482
+GO:0005622,intracellular anatomical structure,0.806599291563034
+GO:0043226,organelle,0.745671421289444
+GO:0043229,intracellular organelle,0.736036797761917
+GO:0016020,membrane,0.651426845788956
+GO:0043227,membrane-bounded organelle,0.641530433893204
+GO:0043231,intracellular membrane-bounded organelle,0.632363673448563
+GO:0005634,nucleus,0.587461704015732
+GO:0031974,membrane-enclosed lumen,0.386941283941269
+GO:0043233,organelle lumen,0.386941283941269
+GO:0070013,intracellular organelle lumen,0.37954584479332
+GO:0031981,nuclear lumen,0.374765396714211
+GO:0005654,nucleoplasm,0.366474796533585
+Molecular Function
+GO:0005488,binding,0.576513713598251
+GO:0003676,nucleic acid binding,0.46855220913887
+GO:0003677,DNA binding,0.46855220913887
+GO:0043565,sequence-specific DNA binding,0.439564607143402
+GO:0003690,double-stranded DNA binding,0.427197439074516
+GO:1990837,sequence-specific double-stranded DNA binding,0.427197439074516
+GO:0000976,transcription cis-regulatory region binding,0.415412994623184
+GO:0001067,transcription regulatory region nucleic acid binding,0.415412994623184
+GO:0003700,DNA-binding transcription factor activity,0.409721153378487
+GO:0140110,transcription regulator activity,0.409721153378487
+Biological Process
+GO:0009987,cellular process,0.798273044228554
+GO:0050789,regulation of biological process,0.670089060664177
+GO:0065007,biological regulation,0.670089060664177
+GO:0050794,regulation of cellular process,0.658671073019505
+GO:0008152,metabolic process,0.63388011932373
+GO:0044238,primary metabolic process,0.622222249209881
+GO:0043170,macromolecule metabolic process,0.579214763343334
+GO:0009058,biosynthetic process,0.578129023909569
+GO:0009059,macromolecule biosynthetic process,0.56648282289505
+GO:0019222,regulation of metabolic process,0.557903933227062
+GO:0060255,regulation of macromolecule metabolic process,0.554398450255394
+GO:0006139,nucleobase-containing compound metabolic process,0.55436921030283
+GO:0034654,nucleobase-containing compound biosynthetic process,0.55436921030283
+GO:0090304,nucleic acid metabolic process,0.55436921030283
+GO:0141187,nucleic acid biosynthetic process,0.55436921030283
+GO:0009889,regulation of biosynthetic process,0.550479013621807
+GO:0010556,regulation of macromolecule biosynthetic process,0.550479013621807
+GO:0010467,gene expression,0.54455593764782
+GO:0010468,regulation of gene expression,0.54455593764782
+GO:0080090,regulation of primary metabolic process,0.544322054684162
+GO:0016070,RNA metabolic process,0.543582453727722
+GO:0032774,RNA biosynthetic process,0.543582453727722
+GO:0019219,regulation of nucleobase-containing compound metabolic process,0.540766339600086
+GO:0051252,regulation of RNA metabolic process,0.540766339600086
+GO:0006351,DNA-templated transcription,0.538734560012817
+GO:0006355,regulation of DNA-templated transcription,0.538734560012817
+GO:2001141,regulation of RNA biosynthetic process,0.538734560012817
+GO:0048519,negative regulation of biological process,0.324397591352463
+GO:0048523,negative regulation of cellular process,0.324397591352463
+Biological_Normal_12
+Cellular Component
+GO:0110165,cellular anatomical structure,0.852553881406784
+GO:0005622,intracellular anatomical structure,0.807101054191589
+GO:0043226,organelle,0.738136184215546
+GO:0043229,intracellular organelle,0.717251871824265
+GO:0016020,membrane,0.710478749275208
+GO:0043227,membrane-bounded organelle,0.591536874771118
+GO:0005737,cytoplasm,0.571526278853416
+GO:0043231,intracellular membrane-bounded organelle,0.56515879034996
+GO:0071944,cell periphery,0.449707247614861
+GO:0043228,membraneless organelle,0.446690420508385
+GO:0043232,intracellular membraneless organelle,0.446690420508385
+GO:0005886,plasma membrane,0.39791034758091
+GO:0005856,cytoskeleton,0.372405457496643
+GO:0031982,vesicle,0.32262154519558
+GO:0015629,actin cytoskeleton,0.321931834816933
+GO:0032991,protein-containing complex,0.315163742899895
+Molecular Function
+GO:0003824,catalytic activity,0.504472096562386
+GO:0016462,pyrophosphatase activity,0.477610192894936
+GO:0016787,hydrolase activity,0.477610192894936
+GO:0016817,"hydrolase activity, acting on acid anhydrides",0.477610192894936
+GO:0016818,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",0.477610192894936
+GO:0017111,ribonucleoside triphosphate phosphatase activity,0.473074624538422
+GO:0005488,binding,0.450958302617073
+GO:0016887,ATP hydrolysis activity,0.438892276883125
+GO:0140657,ATP-dependent activity,0.438892276883125
+GO:0005515,protein binding,0.397468299269676
+Biological Process
+GO:0009987,cellular process,0.796666952371597
+GO:0051179,localization,0.453932965397835
+GO:0051234,establishment of localization,0.373947467207909
+GO:0030029,actin filament-based process,0.370794610381126
+GO:0006810,transport,0.36477656930685
+GO:0065007,biological regulation,0.356108903884888
+GO:0030048,actin filament-based movement,0.345536838769913
+GO:0050789,regulation of biological process,0.318190258145332
+GO:0071840,cellular component organization or biogenesis,0.313959330618382
+GO:0051641,cellular localization,0.307134764790535
+Biological_Normal_11
+Cellular Component
+GO:0110165,cellular anatomical structure,0.945751900672913
+GO:0005622,intracellular anatomical structure,0.919916256666183
+GO:0043226,organelle,0.86777428150177
+GO:0043229,intracellular organelle,0.822409440279007
+GO:0005737,cytoplasm,0.803262860774994
+GO:0016020,membrane,0.713265204429626
+GO:0043228,membraneless organelle,0.692362394332886
+GO:0043232,intracellular membraneless organelle,0.692006973028183
+GO:0043227,membrane-bounded organelle,0.68755006313324
+GO:0032991,protein-containing complex,0.568886342048645
+GO:0071944,cell periphery,0.52061606824398
+GO:0005856,cytoskeleton,0.512915452718735
+GO:0005886,plasma membrane,0.502124139070511
+GO:0015630,microtubule cytoskeleton,0.500708555579185
+GO:0005929,cilium,0.476233050525188
+GO:0030990,intraciliary transport particle,0.476233050525188
+GO:0042995,cell projection,0.476233050525188
+GO:0098590,plasma membrane region,0.476233050525188
+GO:0120025,plasma membrane bounded cell projection,0.476233050525188
+GO:0099080,supramolecular complex,0.446242454648018
+GO:1902494,catalytic complex,0.440058540701866
+GO:0099081,supramolecular polymer,0.43423348903656
+GO:0099512,supramolecular fiber,0.43423348903656
+GO:0099513,polymeric cytoskeletal fiber,0.43423348903656
+GO:0005874,microtubule,0.429131042361259
+GO:0005875,microtubule associated complex,0.413436832427979
+GO:0005930,axoneme,0.410900339484215
+GO:0097014,ciliary plasm,0.410900339484215
+GO:0005858,axonemal dynein complex,0.408142911195755
+GO:0030286,dynein complex,0.408142911195755
+GO:0036156,inner dynein arm,0.407478665709496
+GO:0005881,cytoplasmic microtubule,0.317744740247726
+GO:0005879,axonemal microtubule,0.315677988529205
+GO:0031514,motile cilium,0.315220873355866
+GO:0001534,radial spoke,0.314747759699821
+GO:0097545,axonemal doublet microtubule,0.314417398571968
+GO:0097649,A axonemal microtubule,0.314417398571968
+GO:0097650,B axonemal microtubule,0.314417398571968
+GO:1990716,axonemal central apparatus,0.314254397749901
+GO:0097540,axonemal central pair,0.31421669781208
+GO:1990719,C1 axonemal microtubule,0.31421669781208
+GO:1990720,C2 axonemal microtubule,0.31421669781208
+GO:0036157,outer dynein arm,0.314079086184502
+GO:0097729,9+2 motile cilium,0.313828991651535
+GO:0036126,sperm flagellum,0.308771030902863
+Molecular Function
+GO:0005488,binding,0.415341331958771
+GO:0005515,protein binding,0.393371042609215
+Biological Process
+GO:0009987,cellular process,0.717946639657021
+GO:0071840,cellular component organization or biogenesis,0.637985645532608
+GO:0016043,cellular component organization,0.611324759423733
+GO:0006996,organelle organization,0.579149606823921
+GO:0007017,microtubule-based process,0.576866874396801
+GO:0044085,cellular component biogenesis,0.563070858716965
+GO:0007010,cytoskeleton organization,0.562751064300537
+GO:0022607,cellular component assembly,0.54901140242815
+GO:0000226,microtubule cytoskeleton organization,0.544454955160618
+GO:0051179,localization,0.515992909967899
+GO:0051641,cellular localization,0.515992909967899
+GO:0061024,membrane organization,0.50382625490427
+GO:0033036,macromolecule localization,0.502187778949738
+GO:0030030,cell projection organization,0.500837548077106
+GO:0120036,plasma membrane bounded cell projection organization,0.500837548077106
+GO:0051234,establishment of localization,0.500747531056404
+GO:0007018,microtubule-based movement,0.497289934158325
+GO:0030031,cell projection assembly,0.496410096287727
+GO:0120031,plasma membrane bounded cell projection assembly,0.49469673037529
+GO:0008104,intracellular protein localization,0.493308681845665
+GO:0033365,protein localization to organelle,0.493308681845665
+GO:0006810,transport,0.492419960796833
+GO:0051649,establishment of localization in cell,0.49193207025528
+GO:0048284,organelle fusion,0.491825850903988
+GO:0061025,membrane fusion,0.491825850903988
+GO:0090174,organelle membrane fusion,0.491825850903988
+GO:0051668,localization within membrane,0.491083085238934
+GO:0006906,vesicle fusion,0.489796050786972
+GO:0016050,vesicle organization,0.489796050786972
+GO:0016192,vesicle-mediated transport,0.489796050786972
+GO:0070925,organelle assembly,0.487366849780083
+GO:0030705,cytoskeleton-dependent intracellular transport,0.486328739821911
+GO:0046907,intracellular transport,0.486328739821911
+GO:0006887,exocytosis,0.485372948944569
+GO:0032940,secretion by cell,0.485372948944569
+GO:0046903,secretion,0.485372948944569
+GO:0099500,vesicle fusion to plasma membrane,0.485372948944569
+GO:0140029,exocytic process,0.485372948944569
+GO:0140352,export from cell,0.485372948944569
+GO:0099111,microtubule-based transport,0.484530378878117
+GO:0006892,post-Golgi vesicle-mediated transport,0.480362225472927
+GO:0006893,Golgi to plasma membrane transport,0.480362225472927
+GO:0048193,Golgi vesicle transport,0.480362225472927
+GO:0098876,vesicle-mediated transport to the plasma membrane,0.480362225472927
+GO:0010970,transport along microtubule,0.480126631855965
+GO:0048870,cell motility,0.478764964044094
+GO:0044782,cilium organization,0.476387754678726
+GO:0042073,intraciliary transport,0.476233050525188
+GO:0001578,microtubule bundle formation,0.475575683116913
+GO:0035082,axoneme assembly,0.475575683116913
+GO:0035735,intraciliary transport involved in cilium assembly,0.475575683116913
+GO:0060271,cilium assembly,0.475575683116913
+GO:0061512,protein localization to cilium,0.475575683116913
+GO:0097712,trans-Golgi to periciliary membrane compartment transport,0.475575683116913
+GO:1905349,ciliary transition zone assembly,0.475575683116913
+GO:0003341,cilium movement,0.450512309372425
+GO:0001539,cilium or flagellum-dependent cell motility,0.445405007302761
+GO:0060285,cilium-dependent cell motility,0.444297909140587
+GO:0032502,developmental process,0.444227745234966
+GO:0060294,cilium movement involved in cell motility,0.439256149530411
+GO:0030154,cell differentiation,0.429637021124363
+GO:0048869,cellular developmental process,0.429637021124363
+GO:0048856,anatomical structure development,0.427061168253422
+GO:0019953,sexual reproduction,0.416636117100716
+GO:0022414,reproductive process,0.416636117100716
+GO:0048468,cell development,0.40486028522253
+GO:0007276,gamete generation,0.394068054556847
+GO:0048609,multicellular organismal reproductive process,0.394068054556847
+GO:0003006,developmental process involved in reproduction,0.390821869969368
+GO:0022412,cellular process involved in reproduction in multicellular organism,0.370533277392387
+GO:0007281,germ cell development,0.370282813310623
+GO:0048232,male gamete generation,0.366939915716648
+GO:0007283,spermatogenesis,0.36591118991375
+GO:0007286,spermatid development,0.353389378786087
+GO:0048515,spermatid differentiation,0.353389378786087
+GO:0030317,flagellated sperm motility,0.337360941171646
+GO:0044458,motile cilium assembly,0.337360941171646
+GO:0097722,sperm motility,0.337360941171646
+GO:0120316,sperm flagellum assembly,0.337360941171646

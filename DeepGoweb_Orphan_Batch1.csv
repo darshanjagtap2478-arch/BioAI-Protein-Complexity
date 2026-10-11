@@ -1,0 +1,498 @@
+Biological_Orphan_10
+Cellular Component
+GO:0110165,cellular anatomical structure,0.960360503196716
+GO:0016020,membrane,0.944066836833954
+GO:0005886,plasma membrane,0.932880566120148
+GO:0071944,cell periphery,0.932880566120148
+GO:0005622,intracellular anatomical structure,0.566914031505585
+GO:0098590,plasma membrane region,0.489231663346291
+GO:0005737,cytoplasm,0.401446335315704
+GO:0042995,cell projection,0.334632606506348
+GO:0120025,plasma membrane bounded cell projection,0.334632606506348
+GO:0043226,organelle,0.304863216429949
+GO:0043005,neuron projection,0.301805036067963
+Molecular Function
+GO:0005215,transporter activity,0.753747780323029
+GO:0015075,monoatomic ion transmembrane transporter activity,0.753747780323029
+GO:0022857,transmembrane transporter activity,0.753747780323029
+GO:0008324,monoatomic cation transmembrane transporter activity,0.749230157136917
+GO:0046873,metal ion transmembrane transporter activity,0.749230157136917
+GO:0005216,monoatomic ion channel activity,0.710167645215988
+GO:0015267,channel activity,0.710167645215988
+GO:0022803,passive transmembrane transporter activity,0.710167645215988
+GO:0005261,monoatomic cation channel activity,0.704893386363983
+GO:0022836,gated channel activity,0.581154788732529
+GO:0022832,voltage-gated channel activity,0.518432415723801
+GO:0005244,voltage-gated monoatomic ion channel activity,0.513391808867455
+GO:0022843,voltage-gated monoatomic cation channel activity,0.479666434526443
+GO:0015085,calcium ion transmembrane transporter activity,0.461888819932938
+GO:0005262,calcium channel activity,0.443749940991402
+GO:0005245,voltage-gated calcium channel activity,0.419536657333374
+GO:0005488,binding,0.386008847355843
+GO:0008332,low voltage-gated calcium channel activity,0.347810525894165
+GO:0005515,protein binding,0.346169611215591
+Biological Process
+GO:0009987,cellular process,0.87932775914669
+GO:0051179,localization,0.773107162714004
+GO:0051234,establishment of localization,0.770675004720688
+GO:0006810,transport,0.753747780323029
+GO:0006811,monoatomic ion transport,0.753747780323029
+GO:0034220,monoatomic ion transmembrane transport,0.753747780323029
+GO:0055085,transmembrane transport,0.753747780323029
+GO:0006812,monoatomic cation transport,0.749230157136917
+GO:0030001,metal ion transport,0.749230157136917
+GO:0098655,monoatomic cation transmembrane transport,0.749230157136917
+GO:0065007,biological regulation,0.727033638358116
+GO:0032501,multicellular organismal process,0.597061460018158
+GO:0050789,regulation of biological process,0.572141983509064
+GO:0065008,regulation of biological quality,0.548513689041138
+GO:0050896,response to stimulus,0.463645865023136
+GO:0006816,calcium ion transport,0.461888819932938
+GO:0070588,calcium ion transmembrane transport,0.461888819932938
+GO:0003008,system process,0.448737110197544
+GO:0050794,regulation of cellular process,0.442381771802902
+GO:0051716,cellular response to stimulus,0.374293718934059
+GO:0042391,regulation of membrane potential,0.348348241150379
+GO:0048518,positive regulation of biological process,0.337087986171246
+GO:0032502,developmental process,0.333075029850006
+GO:0070509,calcium ion import,0.324426338672638
+GO:0003013,circulatory system process,0.310101409852505
+GO:0048856,anatomical structure development,0.303851276487112
+GO:0007154,cell communication,0.303430589288473
+Biological_Orphan_9
+Cellular Component
+GO:0110165,cellular anatomical structure,0.911813127994537
+GO:0005622,intracellular anatomical structure,0.857572157382965
+GO:0016020,membrane,0.807839167118072
+GO:0043226,organelle,0.789141122102737
+GO:0043229,intracellular organelle,0.777583911418915
+GO:0043227,membrane-bounded organelle,0.769163966178894
+GO:0043231,intracellular membrane-bounded organelle,0.758769901394844
+GO:0005634,nucleus,0.731006118059158
+GO:0031974,membrane-enclosed lumen,0.332292484045029
+GO:0043233,organelle lumen,0.331579050421715
+GO:0070013,intracellular organelle lumen,0.329559279680252
+GO:0005654,nucleoplasm,0.323469725251198
+GO:0031981,nuclear lumen,0.323469725251198
+Molecular Function
+Biological Process
+Biological_Orphan_8
+Cellular Component
+GO:0110165,cellular anatomical structure,0.733813917636871
+GO:0005622,intracellular anatomical structure,0.685359523296356
+GO:0005737,cytoplasm,0.649092471003532
+GO:0016020,membrane,0.632939371466637
+GO:0043226,organelle,0.505435017347336
+GO:0043229,intracellular organelle,0.505435017347336
+GO:0043227,membrane-bounded organelle,0.491035875678062
+GO:0043231,intracellular membrane-bounded organelle,0.485686076283455
+GO:0071944,cell periphery,0.358527249097824
+GO:0005886,plasma membrane,0.350571355819702
+GO:0005829,cytosol,0.31346825003624
+Molecular Function
+GO:0003824,catalytic activity,0.732206302881241
+GO:0016740,transferase activity,0.596967253088951
+GO:0016741,"transferase activity, transferring one-carbon groups",0.555449312925339
+GO:0008168,methyltransferase activity,0.553651056885719
+GO:0008171,O-methyltransferase activity,0.542841771841049
+GO:0008757,S-adenosylmethionine-dependent methyltransferase activity,0.474057701826096
+GO:0016206,catechol O-methyltransferase activity,0.467713440656662
+Biological Process
+GO:0009987,cellular process,0.660116522610187
+GO:0008152,metabolic process,0.501763651967049
+GO:0006576,biogenic amine metabolic process,0.357874615192413
+GO:0006584,catecholamine metabolic process,0.357874615192413
+GO:0009308,amine metabolic process,0.357874615192413
+GO:0009712,catechol-containing compound metabolic process,0.357874615192413
+GO:0018958,phenol-containing compound metabolic process,0.357874615192413
+GO:0050896,response to stimulus,0.355717132091522
+GO:0042417,dopamine metabolic process,0.320772156715393
+GO:0009056,catabolic process,0.313464775681496
+GO:0032501,multicellular organismal process,0.312383627295494
+Biological_Orphan_7
+Cellular Component
+GO:0110165,cellular anatomical structure,0.834678157567978
+GO:0005622,intracellular anatomical structure,0.834340859651566
+GO:0043226,organelle,0.78708907365799
+GO:0043229,intracellular organelle,0.773832322359085
+GO:0043228,membraneless organelle,0.654238495826721
+GO:0016020,membrane,0.653051404953003
+GO:0043227,membrane-bounded organelle,0.653051404953003
+GO:0043232,intracellular membraneless organelle,0.65022607088089
+GO:0005737,cytoplasm,0.625416527986526
+GO:0043231,intracellular membrane-bounded organelle,0.622557145357132
+GO:0005634,nucleus,0.5841195499897
+GO:0005856,cytoskeleton,0.576167353391647
+GO:0015630,microtubule cytoskeleton,0.572565940022469
+GO:0005815,microtubule organizing center,0.480153453350067
+GO:0005814,centriole,0.45312538087368
+GO:0005813,centrosome,0.442326226830483
+Molecular Function
+GO:0005488,binding,0.773681874275208
+GO:0005515,protein binding,0.747311147451401
+GO:0008092,cytoskeletal protein binding,0.563989689350128
+GO:0015631,tubulin binding,0.550571778416634
+GO:0008017,microtubule binding,0.54044101536274
+Biological Process
+GO:0009987,cellular process,0.726201596260071
+GO:0071840,cellular component organization or biogenesis,0.562248159945011
+GO:0016043,cellular component organization,0.530184260904789
+GO:0044085,cellular component biogenesis,0.488388956189156
+GO:0022607,cellular component assembly,0.463767352104187
+GO:0032502,developmental process,0.45534363090992
+GO:0019953,sexual reproduction,0.448028132021427
+GO:0022414,reproductive process,0.448028132021427
+GO:0030154,cell differentiation,0.444209721684456
+GO:0048869,cellular developmental process,0.444209721684456
+GO:0048856,anatomical structure development,0.435140522122383
+GO:0043933,protein-containing complex organization,0.418815647661686
+GO:0065003,protein-containing complex assembly,0.413935349285603
+GO:0048468,cell development,0.411874366402626
+GO:0003006,developmental process involved in reproduction,0.409005722999573
+GO:0007276,gamete generation,0.406755871772766
+GO:0048609,multicellular organismal reproductive process,0.406755871772766
+GO:0007281,germ cell development,0.383878535330296
+GO:0022412,cellular process involved in reproduction in multicellular organism,0.383878535330296
+GO:0048232,male gamete generation,0.380534770190716
+GO:0007283,spermatogenesis,0.377634675204754
+GO:0007286,spermatid development,0.369437786638737
+GO:0048515,spermatid differentiation,0.369437786638737
+GO:0051259,protein complex oligomerization,0.365035970211029
+GO:0051260,protein homooligomerization,0.365035970211029
+Biological_Orphan_6
+Cellular Component
+GO:0110165,cellular anatomical structure,0.624199442863464
+GO:0005622,intracellular anatomical structure,0.505544248819351
+GO:0043226,organelle,0.464275662302971
+GO:0016020,membrane,0.460704408884048
+GO:0043229,intracellular organelle,0.448220355510712
+GO:0043227,membrane-bounded organelle,0.424544726014137
+GO:0043231,intracellular membrane-bounded organelle,0.42251943051815
+GO:0005634,nucleus,0.379830090999603
+GO:0000785,chromatin,0.366650391221046
+GO:0005694,chromosome,0.366650391221046
+GO:0043228,membraneless organelle,0.366650391221046
+GO:0043232,intracellular membraneless organelle,0.366650391221046
+Molecular Function
+GO:0005488,binding,0.489392793178558
+GO:0003676,nucleic acid binding,0.397075662612915
+GO:0003677,DNA binding,0.387751976251602
+GO:0003690,double-stranded DNA binding,0.38632079064846
+GO:0043565,sequence-specific DNA binding,0.38632079064846
+GO:1990837,sequence-specific double-stranded DNA binding,0.38632079064846
+GO:0000976,transcription cis-regulatory region binding,0.370538008213043
+GO:0001067,transcription regulatory region nucleic acid binding,0.370538008213043
+GO:0003700,DNA-binding transcription factor activity,0.370538008213043
+GO:0140110,transcription regulator activity,0.370538008213043
+GO:0000977,RNA polymerase II transcription regulatory region sequence-specific DNA binding,0.366650391221046
+GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",0.366650391221046
+GO:0000987,cis-regulatory region sequence-specific DNA binding,0.354246509075165
+GO:0001216,DNA-binding transcription activator activity,0.349730497002602
+GO:0001228,"DNA-binding transcription activator activity, RNA polymerase II-specific",0.349730497002602
+GO:0000978,RNA polymerase II cis-regulatory region sequence-specific DNA binding,0.347075138688087
+GO:0001217,DNA-binding transcription repressor activity,0.34210739672184
+GO:0001227,"DNA-binding transcription repressor activity, RNA polymerase II-specific",0.34186541557312
+GO:0003682,chromatin binding,0.340021703839302
+GO:1990841,promoter-specific chromatin binding,0.33
+Biological Process
+GO:0009987,cellular process,0.81809726536274
+GO:0008152,metabolic process,0.755402774810791
+GO:0050789,regulation of biological process,0.740228363573551
+GO:0065007,biological regulation,0.740228363573551
+GO:0050794,regulation of cellular process,0.73795774012804
+GO:0032502,developmental process,0.734627354741096
+GO:0044238,primary metabolic process,0.717564834356308
+GO:0048856,anatomical structure development,0.716369405388832
+GO:0160108,animal gross anatomical part developmental process,0.704835740923881
+GO:0009058,biosynthetic process,0.701907517910004
+GO:0043170,macromolecule metabolic process,0.692016801536083
+GO:0009059,macromolecule biosynthetic process,0.68331737190485
+GO:0009889,regulation of biosynthetic process,0.68331737190485
+GO:0010556,regulation of macromolecule biosynthetic process,0.68331737190485
+GO:0019222,regulation of metabolic process,0.68331737190485
+GO:0060255,regulation of macromolecule metabolic process,0.68331737190485
+GO:0048518,positive regulation of biological process,0.682161984443664
+GO:0048522,positive regulation of cellular process,0.682161984443664
+GO:0010467,gene expression,0.679959994852543
+GO:0010468,regulation of gene expression,0.679959994852543
+GO:0080090,regulation of primary metabolic process,0.678336328268051
+GO:0009891,positive regulation of biosynthetic process,0.652609018981457
+GO:0009893,positive regulation of metabolic process,0.652609018981457
+GO:0010557,positive regulation of macromolecule biosynthetic process,0.652609018981457
+GO:0010604,positive regulation of macromolecule metabolic process,0.652609018981457
+GO:0048513,animal organ development,0.652535155415535
+GO:0009888,tissue development,0.622917417287826
+GO:0008544,epidermis development,0.59
+GO:0032501,multicellular organismal process,0.458279609680176
+GO:0048869,cellular developmental process,0.398843938112259
+GO:0006139,nucleobase-containing compound metabolic process,0.39866937816143
+GO:0016070,RNA metabolic process,0.39866937816143
+GO:0019219,regulation of nucleobase-containing compound metabolic process,0.39866937816143
+GO:0051252,regulation of RNA metabolic process,0.39866937816143
+GO:0090304,nucleic acid metabolic process,0.39866937816143
+GO:0030154,cell differentiation,0.396721554994583
+GO:0009892,negative regulation of metabolic process,0.389515159130096
+GO:0010605,negative regulation of macromolecule metabolic process,0.389515159130096
+GO:0045934,negative regulation of nucleobase-containing compound metabolic process,0.389515159130096
+GO:0048519,negative regulation of biological process,0.389515159130096
+GO:0048523,negative regulation of cellular process,0.389515159130096
+GO:0051253,negative regulation of RNA metabolic process,0.389515159130096
+GO:0006351,DNA-templated transcription,0.380551604628563
+GO:0006355,regulation of DNA-templated transcription,0.380551604628563
+GO:0032774,RNA biosynthetic process,0.380551604628563
+GO:0034654,nucleobase-containing compound biosynthetic process,0.380551604628563
+GO:0141187,nucleic acid biosynthetic process,0.380551604628563
+GO:2001141,regulation of RNA biosynthetic process,0.380551604628563
+GO:0009890,negative regulation of biosynthetic process,0.376158133745193
+GO:0010558,negative regulation of macromolecule biosynthetic process,0.376158133745193
+GO:0045892,negative regulation of DNA-templated transcription,0.376158133745193
+GO:1902679,negative regulation of RNA biosynthetic process,0.376158133745193
+GO:0006357,regulation of transcription by RNA polymerase II,0.366650391221046
+GO:0006366,transcription by RNA polymerase II,0.366650391221046
+GO:0051254,positive regulation of RNA metabolic process,0.354201226532459
+GO:0045595,regulation of cell differentiation,0.353917392492294
+GO:0050793,regulation of developmental process,0.353917392492294
+GO:1902680,positive regulation of RNA biosynthetic process,0.353230210840702
+GO:0045893,positive regulation of DNA-templated transcription,0.349730497002602
+GO:0045944,positive regulation of transcription by RNA polymerase II,0.349730497002602
+GO:0071840,cellular component organization or biogenesis,0.345528079867363
+GO:0051239,regulation of multicellular organismal process,0.345202114880085
+GO:0051093,negative regulation of developmental process,0.343692756593227
+GO:0000122,negative regulation of transcription by RNA polymerase II,0.34186541557312
+GO:0045596,negative regulation of cell differentiation,0.337124837636948
+GO:0044085,cellular component biogenesis,0.323691419363022
+GO:0051241,negative regulation of multicellular organismal process,0.315211894214153
+GO:0010628,positive regulation of gene expression,0.314090304374695
+GO:0006629,lipid metabolic process,0.313551534116268
+GO:0060429,epithelium development,0.306579045653343
+GO:0060485,mesenchyme development,0.30156449764967
+GO:0044087,regulation of cellular component biogenesis,0.300681519508362
+GO:0008610,lipid biosynthetic process,0.300348320901394
+GO:0048762,mesenchymal cell differentiation,0.300137971639633
+Biological_Orphan_5
+Cellular Component
+GO:0110165,cellular anatomical structure,0.875176438093185
+GO:0005622,intracellular anatomical structure,0.789113045930862
+GO:0005737,cytoplasm,0.710898739695549
+GO:0043226,organelle,0.709771538972855
+GO:0016020,membrane,0.708710018396378
+GO:0043227,membrane-bounded organelle,0.70384094119072
+GO:0043229,intracellular organelle,0.690417515039444
+GO:0043231,intracellular membrane-bounded organelle,0.687897760868073
+GO:0005634,nucleus,0.646385605335236
+GO:0005829,cytosol,0.645328896641731
+GO:0031974,membrane-enclosed lumen,0.589728082418442
+GO:0043233,organelle lumen,0.589728082418442
+GO:0070013,intracellular organelle lumen,0.589592074751854
+GO:0032991,protein-containing complex,0.579421563744545
+GO:0005654,nucleoplasm,0.575716317892075
+GO:0031981,nuclear lumen,0.575716317892075
+GO:0043228,membraneless organelle,0.571758989691734
+GO:0043232,intracellular membraneless organelle,0.569263870716095
+GO:0000785,chromatin,0.554378057122231
+GO:0005694,chromosome,0.554378057122231
+GO:0140513,nuclear protein-containing complex,0.548633107542992
+GO:0016604,nuclear body,0.54
+GO:0043240,Fanconi anaemia nuclear complex,0.54
+Molecular Function
+GO:0005488,binding,0.765611674785614
+GO:0005515,protein binding,0.734890434741974
+GO:0060090,molecular adaptor activity,0.66868293941021
+GO:0030674,protein-macromolecule adaptor activity,0.666789495944977
+GO:0031593,polyubiquitin modification-dependent protein binding,0.66
+GO:0070530,K63-linked polyubiquitin modification-dependent protein binding,0.66
+GO:0140030,modification-dependent protein binding,0.66
+GO:0140035,ubiquitin-like protein reader activity,0.66
+GO:0140036,ubiquitin-modified protein reader activity,0.66
+Biological Process
+GO:0009987,cellular process,0.798421746492386
+GO:0008152,metabolic process,0.728792450726032
+GO:0050896,response to stimulus,0.69476742208004
+GO:0044238,primary metabolic process,0.693299681544304
+GO:0043170,macromolecule metabolic process,0.676495017707348
+GO:0009058,biosynthetic process,0.670396526455879
+GO:0051716,cellular response to stimulus,0.669406009316444
+GO:0009059,macromolecule biosynthetic process,0.649259034395218
+GO:0006139,nucleobase-containing compound metabolic process,0.638691449165344
+GO:0034654,nucleobase-containing compound biosynthetic process,0.638691449165344
+GO:0090304,nucleic acid metabolic process,0.638691449165344
+GO:0141187,nucleic acid biosynthetic process,0.638691449165344
+GO:0006950,response to stress,0.630273287594318
+GO:0006974,DNA damage response,0.59868937343359
+GO:0033554,cellular response to stress,0.59868937343359
+GO:0006259,DNA metabolic process,0.597843650877476
+GO:0071897,DNA biosynthetic process,0.594564181864262
+GO:0006260,DNA replication,0.59
+GO:0006281,DNA repair,0.59
+GO:0006301,DNA damage tolerance,0.59
+GO:0019985,translesion synthesis,0.59
+GO:0036297,interstrand cross-link repair,0.59
+GO:0090592,DNA synthesis involved in DNA replication,0.59
+Biological_Orphan_4
+Cellular Component
+GO:0110165,cellular anatomical structure,0.74688236117363
+GO:0005622,intracellular anatomical structure,0.637793492078781
+GO:0016020,membrane,0.606336817741394
+GO:0043226,organelle,0.566696087121964
+GO:0005737,cytoplasm,0.561498482823372
+GO:0043227,membrane-bounded organelle,0.548526170253754
+GO:0043229,intracellular organelle,0.53801634311676
+GO:0043231,intracellular membrane-bounded organelle,0.516262656450272
+Molecular Function
+GO:0003824,catalytic activity,0.742663095593452
+GO:0016740,transferase activity,0.640724343061447
+GO:0016746,acyltransferase activity,0.614401939511299
+GO:0016747,"acyltransferase activity, transferring groups other than amino-acyl groups",0.60804607629776
+GO:0016407,acetyltransferase activity,0.415522420406342
+GO:0016413,O-acetyltransferase activity,0.415522420406342
+GO:0004102,choline O-acetyltransferase activity,0.333663332462311
+Biological Process
+GO:0009987,cellular process,0.740252429842949
+GO:0008152,metabolic process,0.542595181465149
+GO:0044238,primary metabolic process,0.354939455986023
+Biological_Orphan_3
+Cellular Component
+GO:0110165,cellular anatomical structure,0.960989530086517
+GO:0016020,membrane,0.943875074386597
+GO:0005886,plasma membrane,0.933789340257645
+GO:0071944,cell periphery,0.933789340257645
+GO:0005622,intracellular anatomical structure,0.575532684922218
+GO:0098590,plasma membrane region,0.482173112034798
+GO:0005737,cytoplasm,0.398055217862129
+GO:0042995,cell projection,0.328676801323891
+GO:0120025,plasma membrane bounded cell projection,0.328676801323891
+GO:0043226,organelle,0.311848350167274
+Molecular Function
+GO:0005215,transporter activity,0.760095821619034
+GO:0015075,monoatomic ion transmembrane transporter activity,0.760095821619034
+GO:0022857,transmembrane transporter activity,0.760095821619034
+GO:0008324,monoatomic cation transmembrane transporter activity,0.755974998474121
+GO:0046873,metal ion transmembrane transporter activity,0.755974998474121
+GO:0005216,monoatomic ion channel activity,0.717054943442345
+GO:0015267,channel activity,0.717054943442345
+GO:0022803,passive transmembrane transporter activity,0.717054943442345
+GO:0005261,monoatomic cation channel activity,0.712250937223434
+GO:0022836,gated channel activity,0.587341024875641
+GO:0022832,voltage-gated channel activity,0.525617106556892
+GO:0005244,voltage-gated monoatomic ion channel activity,0.520168361067772
+GO:0022843,voltage-gated monoatomic cation channel activity,0.486091505885124
+GO:0015085,calcium ion transmembrane transporter activity,0.467541235685349
+GO:0005262,calcium channel activity,0.450967963933945
+GO:0005245,voltage-gated calcium channel activity,0.426636217832565
+GO:0005488,binding,0.408515027761459
+GO:0005515,protein binding,0.361378674507141
+GO:0008332,low voltage-gated calcium channel activity,0.342166432142258
+Biological Process
+GO:0009987,cellular process,0.888931137919426
+GO:0051179,localization,0.781182115674019
+GO:0051234,establishment of localization,0.778162470459938
+GO:0006810,transport,0.760095821619034
+GO:0006811,monoatomic ion transport,0.760095821619034
+GO:0034220,monoatomic ion transmembrane transport,0.760095821619034
+GO:0055085,transmembrane transport,0.760095821619034
+GO:0006812,monoatomic cation transport,0.755974998474121
+GO:0030001,metal ion transport,0.755974998474121
+GO:0098655,monoatomic cation transmembrane transport,0.755974998474121
+GO:0065007,biological regulation,0.734655482769012
+GO:0032501,multicellular organismal process,0.597233176827431
+GO:0050789,regulation of biological process,0.586887726783752
+GO:0065008,regulation of biological quality,0.555274127721787
+GO:0006816,calcium ion transport,0.467541235685349
+GO:0070588,calcium ion transmembrane transport,0.467541235685349
+GO:0050896,response to stimulus,0.465289826095104
+GO:0050794,regulation of cellular process,0.462624507546425
+GO:0003008,system process,0.448801674842834
+GO:0051716,cellular response to stimulus,0.383353603184223
+GO:0042391,regulation of membrane potential,0.354607791304588
+GO:0048518,positive regulation of biological process,0.347566754221916
+GO:0032502,developmental process,0.327389604002237
+GO:0070509,calcium ion import,0.325038620829582
+GO:0003013,circulatory system process,0.319741737544537
+GO:0007154,cell communication,0.313549087792635
+GO:0008015,blood circulation,0.307983928620815
+Biological_Orphan_2
+Cellular Component
+GO:0110165,cellular anatomical structure,0.928165853023529
+GO:0005622,intracellular anatomical structure,0.899988754987717
+GO:0005737,cytoplasm,0.740036596655846
+GO:0005829,cytosol,0.624734476208687
+GO:0043226,organelle,0.311607232093811
+Molecular Function
+GO:0005488,binding,0.789311580657959
+GO:0005515,protein binding,0.736115580201149
+GO:0003824,catalytic activity,0.709173434972763
+GO:0016787,hydrolase activity,0.685084409713745
+GO:0098772,molecular function regulator activity,0.67679706454277
+GO:0016817,"hydrolase activity, acting on acid anhydrides",0.675388697981834
+GO:0016818,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",0.675388697981834
+GO:0016462,pyrophosphatase activity,0.674920704960823
+GO:0030234,enzyme regulator activity,0.674147461652756
+GO:0017111,ribonucleoside triphosphate phosphatase activity,0.672170179486275
+GO:0003924,GTPase activity,0.669140282869339
+GO:0030695,GTPase regulator activity,0.669140282869339
+GO:0060589,nucleoside-triphosphatase regulator activity,0.669140282869339
+GO:0140677,molecular function activator activity,0.665177744030953
+GO:0005096,GTPase activator activity,0.66
+GO:0008047,enzyme activator activity,0.66
+Biological Process
+GO:0009987,cellular process,0.865187518596649
+GO:0050789,regulation of biological process,0.761402280330658
+GO:0065007,biological regulation,0.761402280330658
+GO:0050794,regulation of cellular process,0.743412427008152
+GO:0050896,response to stimulus,0.687217038273811
+GO:0051716,cellular response to stimulus,0.658622551858425
+GO:0023052,signaling,0.650918979048729
+GO:0007154,cell communication,0.649801812469959
+GO:0007165,signal transduction,0.644040099978447
+GO:0048583,regulation of response to stimulus,0.632381985485554
+GO:0023051,regulation of signaling,0.623078964054585
+GO:0010646,regulation of cell communication,0.62187748670578
+GO:0009966,regulation of signal transduction,0.618826524317264
+GO:0035556,intracellular signal transduction,0.617657818198204
+GO:1902531,regulation of intracellular signal transduction,0.606906838715076
+GO:0141124,intracellular signaling cassette,0.599979047179222
+GO:0007264,small GTPase-mediated signal transduction,0.59
+GO:0051056,regulation of small GTPase mediated signal transduction,0.59
+Biological_Orphan_1
+Cellular Component
+GO:0110165,cellular anatomical structure,0.751302891969681
+GO:0005622,intracellular anatomical structure,0.700754075050354
+GO:0016020,membrane,0.636143181324005
+GO:0043226,organelle,0.633088567852974
+GO:0043229,intracellular organelle,0.628448445796967
+GO:0043227,membrane-bounded organelle,0.601449861526489
+GO:0043231,intracellular membrane-bounded organelle,0.583916415572166
+GO:0005634,nucleus,0.565232915878296
+Molecular Function
+GO:0005488,binding,0.38625912129879
+GO:0005515,protein binding,0.32677045583725
+Biological Process
+GO:0009987,cellular process,0.631746388673782
+GO:0065007,biological regulation,0.517846863865852
+GO:0050789,regulation of biological process,0.517234181165695
+GO:0050794,regulation of cellular process,0.5128217831254
+GO:0008152,metabolic process,0.389503529965878
+GO:0044238,primary metabolic process,0.352927391827106
+GO:0043170,macromolecule metabolic process,0.344622927606106
+GO:0006139,nucleobase-containing compound metabolic process,0.326254689991474
+GO:0016070,RNA metabolic process,0.326254689991474
+GO:0019219,regulation of nucleobase-containing compound metabolic process,0.326254689991474
+GO:0019222,regulation of metabolic process,0.326254689991474
+GO:0051252,regulation of RNA metabolic process,0.326254689991474
+GO:0060255,regulation of macromolecule metabolic process,0.326254689991474
+GO:0080090,regulation of primary metabolic process,0.326254689991474
+GO:0090304,nucleic acid metabolic process,0.326254689991474
+GO:0009058,biosynthetic process,0.321387160420418
+GO:0009059,macromolecule biosynthetic process,0.315007926523685
+GO:0032774,RNA biosynthetic process,0.315007926523685
+GO:0034654,nucleobase-containing compound biosynthetic process,0.315007926523685
+GO:0141187,nucleic acid biosynthetic process,0.315007926523685
+GO:0006351,DNA-templated transcription,0.31310429930687
+GO:0010467,gene expression,0.31310429930687
+GO:0009889,regulation of biosynthetic process,0.312600340843201
+GO:0010556,regulation of macromolecule biosynthetic process,0.312600340843201
+GO:2001141,regulation of RNA biosynthetic process,0.312600340843201
+GO:0006355,regulation of DNA-templated transcription,0.312416323423386
+GO:0010468,regulation of gene expression,0.312416323423386
+GO:0048518,positive regulation of biological process,0.310619367659092
+GO:0048522,positive regulation of cellular process,0.310563246011734

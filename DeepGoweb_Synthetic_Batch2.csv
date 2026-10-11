@@ -1,0 +1,424 @@
+Synthetic_Control_20
+Cellular Component
+GO:0110165,cellular anatomical structure,0.424159779548645
+GO:0005622,intracellular anatomical structure,0.42262847661972
+GO:0043229,intracellular organelle,0.395743129253387
+GO:0043226,organelle,0.395743129253387
+GO:0043227,membrane-bounded organelle,0.394110022783279
+GO:0043231,intracellular membrane-bounded organelle,0.394110022783279
+GO:0016020,membrane,0.394110022783279
+GO:0005634,nucleus,0.394110022783279
+GO:0005576,extracellular region,0.373339029550552
+GO:0005618,cell wall,0.373339029550552
+GO:0030312,external encapsulating structure,0.373339029550552
+GO:0009277,fungal-type cell wall,0.373339029550552
+Molecular Function
+Biological Process
+GO:0008152,metabolic process,0.341050016880035
+GO:0009987,cellular process,0.341050016880035
+GO:0065007,biological regulation,0.341050016880035
+GO:0050794,regulation of cellular process,0.341050016880035
+GO:0050789,regulation of biological process,0.341050016880035
+GO:0019222,regulation of metabolic process,0.341050016880035
+GO:0043170,macromolecule metabolic process,0.341050016880035
+GO:0060255,regulation of macromolecule metabolic process,0.341050016880035
+GO:0080090,regulation of primary metabolic process,0.341050016880035
+GO:0044238,primary metabolic process,0.341050016880035
+GO:0090304,nucleic acid metabolic process,0.341050016880035
+GO:0016070,RNA metabolic process,0.341050016880035
+GO:0019219,regulation of nucleobase-containing compound metabolic process,0.341050016880035
+GO:0006139,nucleobase-containing compound metabolic process,0.341050016880035
+GO:0051252,regulation of RNA metabolic process,0.341050016880035
+GO:0009058,biosynthetic process,0.330458042621613
+GO:0009059,macromolecule biosynthetic process,0.330458042621613
+GO:0010467,gene expression,0.330458042621613
+GO:0032774,RNA biosynthetic process,0.330458042621613
+GO:0141187,nucleic acid biosynthetic process,0.330458042621613
+GO:0034654,nucleobase-containing compound biosynthetic process,0.330458042621613
+GO:0006351,DNA-templated transcription,0.330458042621613
+GO:0010556,regulation of macromolecule biosynthetic process,0.326362934112549
+GO:0009889,regulation of biosynthetic process,0.326362934112549
+GO:2001141,regulation of RNA biosynthetic process,0.326362934112549
+GO:0010468,regulation of gene expression,0.317907590270042
+GO:0006355,regulation of DNA-templated transcription,0.317907590270042
+GO:0007049,cell cycle,0.305278985500336
+GO:0022402,cell cycle process,0.305278985500336
+Synthetic_Control_19
+Cellular Component
+GO:0110165,cellular anatomical structure,0.424159779548645
+GO:0005622,intracellular anatomical structure,0.42262847661972
+GO:0043229,intracellular organelle,0.395743129253387
+GO:0043226,organelle,0.395743129253387
+GO:0043227,membrane-bounded organelle,0.394110022783279
+GO:0043231,intracellular membrane-bounded organelle,0.394110022783279
+GO:0016020,membrane,0.394110022783279
+GO:0005634,nucleus,0.394110022783279
+GO:0005576,extracellular region,0.373339029550552
+GO:0005618,cell wall,0.373339029550552
+GO:0030312,external encapsulating structure,0.373339029550552
+GO:0009277,fungal-type cell wall,0.373339029550552
+Molecular Function
+Biological Process
+GO:0008152,metabolic process,0.341050016880035
+GO:0009987,cellular process,0.341050016880035
+GO:0065007,biological regulation,0.341050016880035
+GO:0050794,regulation of cellular process,0.341050016880035
+GO:0050789,regulation of biological process,0.341050016880035
+GO:0019222,regulation of metabolic process,0.341050016880035
+GO:0043170,macromolecule metabolic process,0.341050016880035
+GO:0060255,regulation of macromolecule metabolic process,0.341050016880035
+GO:0080090,regulation of primary metabolic process,0.341050016880035
+GO:0044238,primary metabolic process,0.341050016880035
+GO:0090304,nucleic acid metabolic process,0.341050016880035
+GO:0016070,RNA metabolic process,0.341050016880035
+GO:0019219,regulation of nucleobase-containing compound metabolic process,0.341050016880035
+GO:0006139,nucleobase-containing compound metabolic process,0.341050016880035
+GO:0051252,regulation of RNA metabolic process,0.341050016880035
+GO:0009058,biosynthetic process,0.330458042621613
+GO:0009059,macromolecule biosynthetic process,0.330458042621613
+GO:0010467,gene expression,0.330458042621613
+GO:0032774,RNA biosynthetic process,0.330458042621613
+GO:0141187,nucleic acid biosynthetic process,0.330458042621613
+GO:0034654,nucleobase-containing compound biosynthetic process,0.330458042621613
+GO:0006351,DNA-templated transcription,0.330458042621613
+GO:0010556,regulation of macromolecule biosynthetic process,0.326362934112549
+GO:0009889,regulation of biosynthetic process,0.326362934112549
+GO:2001141,regulation of RNA biosynthetic process,0.326362934112549
+GO:0010468,regulation of gene expression,0.317907590270042
+GO:0006355,regulation of DNA-templated transcription,0.317907590270042
+GO:0007049,cell cycle,0.305278985500336
+GO:0022402,cell cycle process,0.305278985500336
+Synthetic_Control_18
+Cellular Component
+GO:0110165,cellular anatomical structure,0.426916481256485
+GO:0005576,extracellular region,0.426916481256485
+GO:0030312,external encapsulating structure,0.426916481256485
+Molecular Function
+GO:0005488,binding,0.307365547418594
+GO:0003676,nucleic acid binding,0.307365547418594
+GO:0003723,RNA binding,0.307365547418594
+GO:0003729,mRNA binding,0.307365547418594
+Biological Process
+Synthetic_Control_17
+Cellular Component
+Molecular Function
+Biological Process
+Synthetic_Control_16
+Cellular Component
+GO:0110165,cellular anatomical structure,0.424159779548645
+GO:0005622,intracellular anatomical structure,0.42262847661972
+GO:0043229,intracellular organelle,0.395743129253387
+GO:0043226,organelle,0.395743129253387
+GO:0043227,membrane-bounded organelle,0.394110022783279
+GO:0043231,intracellular membrane-bounded organelle,0.394110022783279
+GO:0016020,membrane,0.394110022783279
+GO:0005634,nucleus,0.394110022783279
+GO:0005576,extracellular region,0.373339029550552
+GO:0005618,cell wall,0.373339029550552
+GO:0030312,external encapsulating structure,0.373339029550552
+GO:0009277,fungal-type cell wall,0.373339029550552
+Molecular Function
+Biological Process
+GO:0008152,metabolic process,0.341050016880035
+GO:0009987,cellular process,0.341050016880035
+GO:0065007,biological regulation,0.341050016880035
+GO:0050794,regulation of cellular process,0.341050016880035
+GO:0050789,regulation of biological process,0.341050016880035
+GO:0019222,regulation of metabolic process,0.341050016880035
+GO:0043170,macromolecule metabolic process,0.341050016880035
+GO:0060255,regulation of macromolecule metabolic process,0.341050016880035
+GO:0080090,regulation of primary metabolic process,0.341050016880035
+GO:0044238,primary metabolic process,0.341050016880035
+GO:0090304,nucleic acid metabolic process,0.341050016880035
+GO:0016070,RNA metabolic process,0.341050016880035
+GO:0019219,regulation of nucleobase-containing compound metabolic process,0.341050016880035
+GO:0006139,nucleobase-containing compound metabolic process,0.341050016880035
+GO:0051252,regulation of RNA metabolic process,0.341050016880035
+GO:0009058,biosynthetic process,0.330458042621613
+GO:0009059,macromolecule biosynthetic process,0.330458042621613
+GO:0010467,gene expression,0.330458042621613
+GO:0032774,RNA biosynthetic process,0.330458042621613
+GO:0141187,nucleic acid biosynthetic process,0.330458042621613
+GO:0034654,nucleobase-containing compound biosynthetic process,0.330458042621613
+GO:0006351,DNA-templated transcription,0.330458042621613
+GO:0010556,regulation of macromolecule biosynthetic process,0.326362934112549
+GO:0009889,regulation of biosynthetic process,0.326362934112549
+GO:2001141,regulation of RNA biosynthetic process,0.326362934112549
+GO:0010468,regulation of gene expression,0.317907590270042
+GO:0006355,regulation of DNA-templated transcription,0.317907590270042
+GO:0007049,cell cycle,0.305278985500336
+GO:0022402,cell cycle process,0.305278985500336
+Synthetic_Control_15
+Cellular Component
+GO:0110165,cellular anatomical structure,0.450560648441315
+GO:0005622,intracellular anatomical structure,0.450560648441315
+GO:0043226,organelle,0.436832222938538
+GO:0043229,intracellular organelle,0.431453003883362
+GO:0016020,membrane,0.423366051912308
+GO:0043227,membrane-bounded organelle,0.419663314819336
+GO:0043231,intracellular membrane-bounded organelle,0.419663314819336
+GO:0005634,nucleus,0.419663314819336
+GO:0032991,protein-containing complex,0.419663314819336
+GO:0005667,transcription regulator complex,0.419663314819336
+GO:0140513,nuclear protein-containing complex,0.419663314819336
+GO:0090575,RNA polymerase II transcription regulator complex,0.419663314819336
+GO:0043232,intracellular membraneless organelle,0.409238061904907
+GO:0005856,cytoskeleton,0.409238061904907
+GO:0043228,membraneless organelle,0.409238061904907
+GO:0015630,microtubule cytoskeleton,0.399524638652801
+GO:0005815,microtubule organizing center,0.382163913249969
+GO:0005737,cytoplasm,0.364742977619171
+GO:0005694,chromosome,0.353276987075806
+GO:0099080,supramolecular complex,0.353276987075806
+GO:0000776,kinetochore,0.353276987075806
+GO:0000775,"chromosome, centromeric region",0.353276987075806
+GO:0098687,chromosomal region,0.353276987075806
+GO:0000779,"condensed chromosome, centromeric region",0.353276987075806
+GO:0000793,condensed chromosome,0.353276987075806
+GO:0005814,centriole,0.348292177915573
+GO:0005813,centrosome,0.346829859018326
+GO:0000785,chromatin,0.300085473060608
+Molecular Function
+GO:0140110,transcription regulator activity,0.30203385591507
+Biological Process
+GO:0008152,metabolic process,0.372175549268723
+GO:0009987,cellular process,0.372175549268723
+GO:0065007,biological regulation,0.372175549268723
+GO:0050794,regulation of cellular process,0.372175549268723
+GO:0050789,regulation of biological process,0.372175549268723
+GO:0019222,regulation of metabolic process,0.372175549268723
+GO:0043170,macromolecule metabolic process,0.372175549268723
+GO:0060255,regulation of macromolecule metabolic process,0.372175549268723
+GO:0080090,regulation of primary metabolic process,0.372175549268723
+GO:0044238,primary metabolic process,0.372175549268723
+GO:0090304,nucleic acid metabolic process,0.372175549268723
+GO:0016070,RNA metabolic process,0.372175549268723
+GO:0019219,regulation of nucleobase-containing compound metabolic process,0.372175549268723
+GO:0006139,nucleobase-containing compound metabolic process,0.372175549268723
+GO:0051252,regulation of RNA metabolic process,0.372175549268723
+GO:0009058,biosynthetic process,0.366442539095879
+GO:0009059,macromolecule biosynthetic process,0.366442539095879
+GO:0010556,regulation of macromolecule biosynthetic process,0.366442539095879
+GO:0009889,regulation of biosynthetic process,0.366442539095879
+GO:0032774,RNA biosynthetic process,0.366442539095879
+GO:0141187,nucleic acid biosynthetic process,0.366442539095879
+GO:0034654,nucleobase-containing compound biosynthetic process,0.366442539095879
+GO:2001141,regulation of RNA biosynthetic process,0.366442539095879
+GO:0010468,regulation of gene expression,0.355321093201637
+GO:0010467,gene expression,0.355321093201637
+GO:0006355,regulation of DNA-templated transcription,0.355321093201637
+GO:0006351,DNA-templated transcription,0.355321093201637
+GO:0071840,cellular component organization or biogenesis,0.354663298130035
+GO:0016043,cellular component organization,0.35381667137146
+GO:0006996,organelle organization,0.350124446153641
+GO:0048518,positive regulation of biological process,0.348851329088211
+GO:0048522,positive regulation of cellular process,0.348851329088211
+GO:0009893,positive regulation of metabolic process,0.348851329088211
+GO:0010604,positive regulation of macromolecule metabolic process,0.348851329088211
+GO:0051254,positive regulation of RNA metabolic process,0.348851329088211
+GO:0009891,positive regulation of biosynthetic process,0.345848252773285
+GO:1902680,positive regulation of RNA biosynthetic process,0.345848252773285
+GO:0010557,positive regulation of macromolecule biosynthetic process,0.345848252773285
+GO:0007017,microtubule-based process,0.344738429784775
+GO:0007010,cytoskeleton organization,0.34445964217186
+GO:0000226,microtubule cytoskeleton organization,0.34445964217186
+GO:0045893,positive regulation of DNA-templated transcription,0.342583910822868
+GO:0006366,transcription by RNA polymerase II,0.342032420635223
+GO:0006357,regulation of transcription by RNA polymerase II,0.341416609883308
+GO:0045944,positive regulation of transcription by RNA polymerase II,0.331622459888458
+GO:0007049,cell cycle,0.318326749205589
+GO:0022402,cell cycle process,0.318326749205589
+GO:0007059,chromosome segregation,0.309348287582397
+GO:0051641,cellular localization,0.301538837552071
+GO:0051179,localization,0.301538837552071
+GO:0051649,establishment of localization in cell,0.301004649400711
+GO:0051234,establishment of localization,0.301004649400711
+GO:0006810,transport,0.301004649400711
+GO:0046907,intracellular transport,0.301004649400711
+GO:0008104,intracellular protein localization,0.300167064666748
+GO:0033036,macromolecule localization,0.300167064666748
+GO:0033365,protein localization to organelle,0.300167064666748
+Synthetic_Control_14
+Cellular Component
+Molecular Function
+Biological Process
+Synthetic_Control_13
+Cellular Component
+GO:0110165,cellular anatomical structure,0.424159779548645
+GO:0005622,intracellular anatomical structure,0.42262847661972
+GO:0043229,intracellular organelle,0.395743129253387
+GO:0043226,organelle,0.395743129253387
+GO:0043227,membrane-bounded organelle,0.394110022783279
+GO:0043231,intracellular membrane-bounded organelle,0.394110022783279
+GO:0016020,membrane,0.394110022783279
+GO:0005634,nucleus,0.394110022783279
+GO:0005576,extracellular region,0.373339029550552
+GO:0005618,cell wall,0.373339029550552
+GO:0030312,external encapsulating structure,0.373339029550552
+GO:0009277,fungal-type cell wall,0.373339029550552
+Molecular Function
+Biological Process
+GO:0008152,metabolic process,0.341050016880035
+GO:0009987,cellular process,0.341050016880035
+GO:0065007,biological regulation,0.341050016880035
+GO:0050794,regulation of cellular process,0.341050016880035
+GO:0050789,regulation of biological process,0.341050016880035
+GO:0019222,regulation of metabolic process,0.341050016880035
+GO:0043170,macromolecule metabolic process,0.341050016880035
+GO:0060255,regulation of macromolecule metabolic process,0.341050016880035
+GO:0080090,regulation of primary metabolic process,0.341050016880035
+GO:0044238,primary metabolic process,0.341050016880035
+GO:0090304,nucleic acid metabolic process,0.341050016880035
+GO:0016070,RNA metabolic process,0.341050016880035
+GO:0019219,regulation of nucleobase-containing compound metabolic process,0.341050016880035
+GO:0006139,nucleobase-containing compound metabolic process,0.341050016880035
+GO:0051252,regulation of RNA metabolic process,0.341050016880035
+GO:0009058,biosynthetic process,0.330458042621613
+GO:0009059,macromolecule biosynthetic process,0.330458042621613
+GO:0010467,gene expression,0.330458042621613
+GO:0032774,RNA biosynthetic process,0.330458042621613
+GO:0141187,nucleic acid biosynthetic process,0.330458042621613
+GO:0034654,nucleobase-containing compound biosynthetic process,0.330458042621613
+GO:0006351,DNA-templated transcription,0.330458042621613
+GO:0010556,regulation of macromolecule biosynthetic process,0.326362934112549
+GO:0009889,regulation of biosynthetic process,0.326362934112549
+GO:2001141,regulation of RNA biosynthetic process,0.326362934112549
+GO:0010468,regulation of gene expression,0.317907590270042
+GO:0006355,regulation of DNA-templated transcription,0.317907590270042
+GO:0007049,cell cycle,0.305278985500336
+GO:0022402,cell cycle process,0.305278985500336
+Synthetic_Control_12
+Cellular Component
+GO:0110165,cellular anatomical structure,0.450560648441315
+GO:0005622,intracellular anatomical structure,0.450560648441315
+GO:0043226,organelle,0.436832222938538
+GO:0043229,intracellular organelle,0.431453003883362
+GO:0016020,membrane,0.423366051912308
+GO:0043227,membrane-bounded organelle,0.419663314819336
+GO:0043231,intracellular membrane-bounded organelle,0.419663314819336
+GO:0005634,nucleus,0.419663314819336
+GO:0032991,protein-containing complex,0.419663314819336
+GO:0005667,transcription regulator complex,0.419663314819336
+GO:0140513,nuclear protein-containing complex,0.419663314819336
+GO:0090575,RNA polymerase II transcription regulator complex,0.419663314819336
+GO:0043232,intracellular membraneless organelle,0.409238061904907
+GO:0005856,cytoskeleton,0.409238061904907
+GO:0043228,membraneless organelle,0.409238061904907
+GO:0015630,microtubule cytoskeleton,0.399524638652801
+GO:0005815,microtubule organizing center,0.382163913249969
+GO:0005737,cytoplasm,0.364742977619171
+GO:0005694,chromosome,0.353276987075806
+GO:0099080,supramolecular complex,0.353276987075806
+GO:0000776,kinetochore,0.353276987075806
+GO:0000775,"chromosome, centromeric region",0.353276987075806
+GO:0098687,chromosomal region,0.353276987075806
+GO:0000779,"condensed chromosome, centromeric region",0.353276987075806
+GO:0000793,condensed chromosome,0.353276987075806
+GO:0005814,centriole,0.348292177915573
+GO:0005813,centrosome,0.346829859018326
+GO:0000785,chromatin,0.300085473060608
+Molecular Function
+GO:0140110,transcription regulator activity,0.30203385591507
+Biological Process
+GO:0008152,metabolic process,0.372175549268723
+GO:0009987,cellular process,0.372175549268723
+GO:0065007,biological regulation,0.372175549268723
+GO:0050794,regulation of cellular process,0.372175549268723
+GO:0050789,regulation of biological process,0.372175549268723
+GO:0019222,regulation of metabolic process,0.372175549268723
+GO:0043170,macromolecule metabolic process,0.372175549268723
+GO:0060255,regulation of macromolecule metabolic process,0.372175549268723
+GO:0080090,regulation of primary metabolic process,0.372175549268723
+GO:0044238,primary metabolic process,0.372175549268723
+GO:0090304,nucleic acid metabolic process,0.372175549268723
+GO:0016070,RNA metabolic process,0.372175549268723
+GO:0019219,regulation of nucleobase-containing compound metabolic process,0.372175549268723
+GO:0006139,nucleobase-containing compound metabolic process,0.372175549268723
+GO:0051252,regulation of RNA metabolic process,0.372175549268723
+GO:0009058,biosynthetic process,0.366442539095879
+GO:0009059,macromolecule biosynthetic process,0.366442539095879
+GO:0010556,regulation of macromolecule biosynthetic process,0.366442539095879
+GO:0009889,regulation of biosynthetic process,0.366442539095879
+GO:0032774,RNA biosynthetic process,0.366442539095879
+GO:0141187,nucleic acid biosynthetic process,0.366442539095879
+GO:0034654,nucleobase-containing compound biosynthetic process,0.366442539095879
+GO:2001141,regulation of RNA biosynthetic process,0.366442539095879
+GO:0010468,regulation of gene expression,0.355321093201637
+GO:0010467,gene expression,0.355321093201637
+GO:0006355,regulation of DNA-templated transcription,0.355321093201637
+GO:0006351,DNA-templated transcription,0.355321093201637
+GO:0071840,cellular component organization or biogenesis,0.354663298130035
+GO:0016043,cellular component organization,0.35381667137146
+GO:0006996,organelle organization,0.350124446153641
+GO:0048518,positive regulation of biological process,0.348851329088211
+GO:0048522,positive regulation of cellular process,0.348851329088211
+GO:0009893,positive regulation of metabolic process,0.348851329088211
+GO:0010604,positive regulation of macromolecule metabolic process,0.348851329088211
+GO:0051254,positive regulation of RNA metabolic process,0.348851329088211
+GO:0009891,positive regulation of biosynthetic process,0.345848252773285
+GO:1902680,positive regulation of RNA biosynthetic process,0.345848252773285
+GO:0010557,positive regulation of macromolecule biosynthetic process,0.345848252773285
+GO:0007017,microtubule-based process,0.344738429784775
+GO:0007010,cytoskeleton organization,0.34445964217186
+GO:0000226,microtubule cytoskeleton organization,0.34445964217186
+GO:0045893,positive regulation of DNA-templated transcription,0.342583910822868
+GO:0006366,transcription by RNA polymerase II,0.342032420635223
+GO:0006357,regulation of transcription by RNA polymerase II,0.341416609883308
+GO:0045944,positive regulation of transcription by RNA polymerase II,0.331622459888458
+GO:0007049,cell cycle,0.318326749205589
+GO:0022402,cell cycle process,0.318326749205589
+GO:0007059,chromosome segregation,0.309348287582397
+GO:0051641,cellular localization,0.301538837552071
+GO:0051179,localization,0.301538837552071
+GO:0051649,establishment of localization in cell,0.301004649400711
+GO:0051234,establishment of localization,0.301004649400711
+GO:0006810,transport,0.301004649400711
+GO:0046907,intracellular transport,0.301004649400711
+GO:0008104,intracellular protein localization,0.300167064666748
+GO:0033036,macromolecule localization,0.300167064666748
+GO:0033365,protein localization to organelle,0.300167064666748
+Synthetic_Control_11
+Cellular Component
+GO:0110165,cellular anatomical structure,0.424159779548645
+GO:0005622,intracellular anatomical structure,0.42262847661972
+GO:0043229,intracellular organelle,0.395743129253387
+GO:0043226,organelle,0.395743129253387
+GO:0043227,membrane-bounded organelle,0.394110022783279
+GO:0043231,intracellular membrane-bounded organelle,0.394110022783279
+GO:0016020,membrane,0.394110022783279
+GO:0005634,nucleus,0.394110022783279
+GO:0005576,extracellular region,0.373339029550552
+GO:0005618,cell wall,0.373339029550552
+GO:0030312,external encapsulating structure,0.373339029550552
+GO:0009277,fungal-type cell wall,0.373339029550552
+Molecular Function
+Biological Process
+GO:0008152,metabolic process,0.341050016880035
+GO:0009987,cellular process,0.341050016880035
+GO:0065007,biological regulation,0.341050016880035
+GO:0050794,regulation of cellular process,0.341050016880035
+GO:0050789,regulation of biological process,0.341050016880035
+GO:0019222,regulation of metabolic process,0.341050016880035
+GO:0043170,macromolecule metabolic process,0.341050016880035
+GO:0060255,regulation of macromolecule metabolic process,0.341050016880035
+GO:0080090,regulation of primary metabolic process,0.341050016880035
+GO:0044238,primary metabolic process,0.341050016880035
+GO:0090304,nucleic acid metabolic process,0.341050016880035
+GO:0016070,RNA metabolic process,0.341050016880035
+GO:0019219,regulation of nucleobase-containing compound metabolic process,0.341050016880035
+GO:0006139,nucleobase-containing compound metabolic process,0.341050016880035
+GO:0051252,regulation of RNA metabolic process,0.341050016880035
+GO:0009058,biosynthetic process,0.330458042621613
+GO:0009059,macromolecule biosynthetic process,0.330458042621613
+GO:0010467,gene expression,0.330458042621613
+GO:0032774,RNA biosynthetic process,0.330458042621613
+GO:0141187,nucleic acid biosynthetic process,0.330458042621613
+GO:0034654,nucleobase-containing compound biosynthetic process,0.330458042621613
+GO:0006351,DNA-templated transcription,0.330458042621613
+GO:0010556,regulation of macromolecule biosynthetic process,0.326362934112549
+GO:0009889,regulation of biosynthetic process,0.326362934112549
+GO:2001141,regulation of RNA biosynthetic process,0.326362934112549
+GO:0010468,regulation of gene expression,0.317907590270042
+GO:0006355,regulation of DNA-templated transcription,0.317907590270042
+GO:0007049,cell cycle,0.305278985500336
+GO:0022402,cell cycle process,0.305278985500336
