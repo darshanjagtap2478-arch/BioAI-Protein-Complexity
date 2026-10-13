@@ -1,5 +1,7 @@
 # Rigorous Multi-Seed Machine Learning Audit of Length-Driven Annotation Shortcuts in Sequence-Based Deep Learning Predictors
 
+[![DOI](https://zenodo.org/badge/1413587976.svg)](https://doi.org/10.5281/zenodo.23301043)
+
 **Author:** Darshan Jagtap  
 **Domain:** Computational Biology / Machine Learning Engineering  
 **Environment:** Python 3 (Google Colab / Ubuntu Linux Kernel Clusters)  
