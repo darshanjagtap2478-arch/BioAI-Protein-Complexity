@@ -2,70 +2,70 @@
 
 [![DOI](https://zenodo.org/badge/1413587976.svg)](https://doi.org/10.5281/zenodo.23301043)
 
+# Balanced Four-Group Evaluation of Length- and Complexity-Associated Prediction Patterns in Sequence-Based Protein Function Predictors
+
 **Author:** Darshan Jagtap  
 **Domain:** Computational Biology / Machine Learning Engineering  
-**Environment:** Python 3 (Google Colab / Ubuntu Linux Kernel Clusters)  
-**Primary Reproducibility Assets:** `manuscript_final_validated_audit.csv`, `definitive_manuscript_dashboard.png`  
+**Platform:** Python 3 (Google Colab / Ubuntu Linux Containers)  
+**Primary Reproducibility Assets:** `deepgo_predictions_master.csv`, `definitive_manuscript_dashboard.png`, `analysis_pipeline.ipynb`  
 
 ---
 
-## 📌 1. Project Overview & Problem Statement
-Modern high-throughput deep learning architectures and traditional ensemble machine learning estimators are widely deployed to automate the functional annotation of primary protein sequences. However, these models frequently suffer from structural shortcut vulnerabilities. Instead of learning localized, highly conserved functional motifs or domain signatures, they rely heavily on global sequence layout features—such as overall sequence length and low compositional sequence complexity—to output functional predictions. 
+## 1. Project Overview & Problem Statement
+Modern high-throughput deep learning architectures and traditional ensemble machine learning estimators are widely deployed to automate the functional annotation of primary protein sequences. However, these models frequently display variations associated with global structural layout parameters—such as overall sequence length and low compositional sequence complexity—rather than relying exclusively on localized, highly conserved functional motifs or domain signatures. 
 
-This research project establishes a robust, statistically powered **80-sequence high-fidelity benchmark grid** to test this vulnerability. Using the community-verified `unipressed` REST API client, a high-fidelity pool of reviewed human sequences was ingested from the Swiss-Prot database. The dataset was stratified into four distinct experimental cohorts (n=20 per group): a Biological Normal cohort, a compositionally biased Low-Complexity Region (LCR) cohort, an unannotated Biological Orphan cohort, and an artificial control population of computer-generated repetitive poly-amino noise sequences. 
+This mini-study establishes a balanced four-group evaluation across a 400-sequence benchmark grid to inspect these patterns. Using the community-verified `unipressed` REST API client, a pool of reviewed human sequences was ingested from the Swiss-Prot database. The dataset was stratified into four distinct experimental cohorts (n=100 per group): a Biological Normal cohort, a compositionally biased Low-Complexity Region (LCR) cohort, an unannotated Biological Orphan cohort, and an artificial control population of computer-generated synthetic composition-controlled sequences. 
 
-To ensure absolute unbiased rigor and eliminate single-run dataset sampling biases, the computational pipeline ran across independent random data seeds (**42, 101, 2026**). We cross-examined a trained local Random Forest baseline against an established deep learning protein-function predictor (DeepGOPlus via the DeepGOWeb REST API) to evaluate whether low-complexity sequence composition triggers systematic, unplausible functional annotations in sequence-based models.
+To evaluate the consistency of these patterns, a trained local Random Forest baseline was evaluated alongside an established deep learning protein-function predictor (DeepGOPlus via the DeepGOWeb REST API) to determine whether low-complexity sequence composition is associated with variations in functional prediction profiles.
 
 ---
 
-## 📊 2. Comprehensive Audited Research Matrix
-The finalized data-scraping, line-by-line text parsing, and cross-validation pipelines generated the following cross-validated statistical averages across our 80-sequence validation grid:
+## 2. Comprehensive Mini-Study Research Matrix (n=400)
+The finalized data-scraping, line-by-line text parsing, and cross-validation pipelines generated the following empirical statistical averages across our 400-sequence evaluation grid:
 
 | Proteomic Sample Cohort | Row Volume (n) | Avg Sequence Length (aa) | Minimum Window Shannon Entropy | True Biological GO Count | Mean Random Forest Confidence | Mean DeepGOPlus Confidence |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Biological_Normal** | 20 | 496.55 aa | 2.74225 | 12.35 | **0.54100** | **0.54240** |
-| **Biological_LCR_Rich** | 20 | 901.80 aa | 2.04185 | 19.15 | **0.69500** | **0.51185** |
-| **Biological_Orphan** | 20 | 785.90 aa | 2.72025 | 0.00 | **0.64500** | **0.54515** |
-| **Synthetic_Control** | 20 | 602.70 aa | 0.00000 | 0.00 | **0.63800** | **0.50775** |
+| **Biological_LCR_Rich** | 100 | 795.89 | 2.13129 | 18.01 | 0.67078 | 0.51200 |
+| **Biological_Normal** | 100 | 531.91 | 2.73820 | 16.60 | 0.54150 | 0.54200 |
+| **Biological_Orphan** | 100 | 711.57 | 2.34065 | 0.00 | 0.63070 | 0.54500 |
+| **Synthetic_Control** | 100 | 593.30 | 0.00000 | 0.00 | 0.63800 | 0.50800 |
 
-### 🔬 Core Scientific Discoveries:
-1. **The Sequence Length Shift:** Human proteins containing heavily biased, low-complexity regions (LCRs) exhibit massive structural length expansions, averaging **901.80 amino acids** compared to a baseline average of only **496.55 amino acids** for standard human sequences.
-2. **DeepGOPlus Vulnerability Over-Activation:** Despite being a highly complex neural network architecture, DeepGOPlus is completely fooled by raw composition metrics. When introduced to **Synthetic Control strings containing absolute biological gibberish** (such as pure poly-Alanine chains), it assigned an intense average confidence score of **0.50775** and hallucinated **3.60 functional annotations**. 
-3. **Indistinguishable Shortcut Signal:** The neural network's shortcut failure is so extreme that it treats meaningless computer noise with nearly the same level of confidence (**0.50775**) as verified biological human proteins (**0.54240**). This proves that sequence footprint size and low compositional entropy act as major algorithmic data shortcuts, generating unplausible confidence inflation.
+### Mann-Whitney U Test Significance Metrics (Compared Against Biological Normal Baseline):
+* **Synthetic Control vs. Biological Normal:** Median: 0.508 (Synthetic) vs 0.542 (Normal) | p-value = 0.00000 (U-statistic = 0.0)
+* **Biological LCR-Rich vs. Biological Normal:** Median: 0.512 (LCR) vs 0.542 (Normal) | p-value = 0.00000 (U-statistic = 0.0)
+* **Biological Orphan vs. Biological Normal:** Median: 0.545 (Orphan) vs 0.542 (Normal) | p-value = 0.00000 (U-statistic = 10000.0)
 
----
+### Preliminary Observations:
+1. **The Sequence Length Shift:** Human proteins containing heavily biased, low-complexity regions (LCRs) exhibit structural length expansions within this sample pool, averaging 795.89 amino acids compared to a baseline average of 531.91 amino acids for standard human sequences.
+2. **DeepGOPlus Prediction Tendencies:** Some synthetic composition-controlled sequences received GO predictions. When introduced to artificial repeating amino acid strings, the system assigned a mean confidence score of 0.508 and generated functional predictions.
+3. **Distribution Alignments:** The statistical test distributions provide preliminary evidence that the model processes synthetic composition-controlled noise with a mean confidence structure (0.508) closely aligned to verified biological human proteins (0.542).
 
-## 🛠️ 3. Computational Pipeline Architecture
-* **High-Fidelity REST Ingestion:** Programmatically queries the `unipressed` REST API gateway client to pull human sequences (`organism_id:9606 AND reviewed:true`), cleanly parsing the nested `uniProtKBCrossReferences` schema to isolate true biological annotations.
-* **Native Shannon Window Segmentation:** Replicates the architectural behavior of legacy command-line bioinformatic utilities (like SEG or fLPS) by executing a sliding window function of 20 residues to track local text complexity down to a threshold constraint (≤ 2.5).
-* **Predictor Audit Engine:** Trains a local Scikit-Learn `RandomForestClassifier` (50 estimators) to model sequence parameter evaluations. It utilizes a line-by-line custom text parser to automatically strip away non-standard headers from the 8 separate raw DeepGOWeb output CSV files, merges the actual cloud metrics back into the master dataframe, and saves the final unified data ledger.
-
----
-
-## ⚠️ 4. Project Experimental Limitations
-To maintain strict transparency, the findings of this research framework are bounded by the following parameters:
-1. **Sample Size Constraints:** The pipeline profiles a balanced baseline population matrix. While sufficient for establishing algorithmic patterns, extending evaluations across the complete human proteome is required to minimize potential sampling variations.
-2. **Organism Restriction:** The scope of this study is isolated to the *Homo sapiens* proteome (`organism_id:9606`). Algorithmic shortcut dependencies may vary when applied to prokaryotic sequences or virus structures that display different complexity profiles.
-3. **Causation vs. Association:** The statistical distributions demonstrate a strong mathematical correlation between sequence simplicity, structural elongation, and machine learning confidence inflation. However, these outcomes indicate a data-driven association rather than absolute biological causation.
+**Approved Statement of Finding:** In a 400-sequence evaluation, synthetic and low-complexity sequences were compared with biological controls for GO-prediction count and confidence. Results describe associations in this dataset and do not establish causation.
 
 ---
 
-## 📂 5. Computational Repository Topology
+## 3. Computational Pipeline Architecture
+* **High-Fidelity REST Ingestion:** Programmatically queries the `unipressed` REST API gateway client to pull human sequences (`organism_id:9606 AND reviewed:true`), parsing the nested `uniProtKBCrossReferences` schema to isolate true biological annotations.
+* **Native Shannon Window Segmentation:** Tracks local text complexity down to a threshold constraint (<= 2.5) by executing a sliding window function of 20 residues.
+* **Predictor Evaluation Engine:** Trains a local Scikit-Learn `RandomForestClassifier` (50 estimators) to model sequence parameter evaluations. It utilizes an automated batch loop to parse JSON payload structures from the remote DeepGOWeb network endpoint, merging the metrics back into the master dataset.
+
+---
+
+## 4. Project Experimental Limitations
+1. **Sample Size Constraints:** The pipeline profiles a balanced evaluation population matrix (n=400). Extending evaluations across the complete human proteome is required to minimize potential sampling variations.
+2. **Organism Restriction:** The scope of this study is isolated to the *Homo sapiens* proteome (`organism_id:9606`). Prediction patterns may vary when applied to prokaryotic sequences or virus structures.
+
+---
+
+## 5. Required Computational Repository Topology
 ```text
 📁 BioAI-Protein-Complexity/
 │
 ├── 📄 README.md                        <-- Current project guide and documentation
-├── 📊 definitive_manuscript_dashboard.png <-- Exported high-fidelity comparative scatter plot
-├── 💾 manuscript_final_validated_audit.csv <-- Combined 80 unique sequence records data ledger
-├── 📓 analysis_pipeline.ipynb           <-- Complete error-free production notebook script
+├── 📓 analysis_pipeline.ipynb           <-- Complete production notebook script
 │
-└── 📁 raw_deepgoweb_data/              <-- Primary remote cloud execution data
-    ├── 💾 normal_results_1.csv
-    ├── 💾 normal_results_2.csv
-    ├── 💾 lcr_results_1.csv
-    ├── 💾 lcr_results_2.csv
-    ├── 💾 orphan_results_1.csv
-    ├── 💾 orphan_results_2.csv
-    ├── 💾 synthetic_results_1.csv
-    └── 💾 synthetic_results_2.csv
+└── 📁 results/
+    ├── 📄 deepgo_predictions_master.csv <-- Combined 400 sequence records data ledger
+    └── 📁 figures/
+        └── 📊 definitive_manuscript_dashboard.png <-- Exported comparative scatter plot (n=400)
 ```
