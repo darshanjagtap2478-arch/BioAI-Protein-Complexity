@@ -1,8 +1,6 @@
-# Rigorous Multi-Seed Machine Learning Audit of Length-Driven Annotation Shortcuts in Sequence-Based Deep Learning Predictors
+# Balanced Four-Group Evaluation of Length- and Complexity-Associated Prediction Patterns in Sequence-Based Protein Function Predictors
 
 [![DOI](https://zenodo.org/badge/1413587976.svg)](https://doi.org/10.5281/zenodo.23301043)
-
-# Balanced Four-Group Evaluation of Length- and Complexity-Associated Prediction Patterns in Sequence-Based Protein Function Predictors
 
 **Author:** Darshan Jagtap  
 **Domain:** Computational Biology / Machine Learning Engineering  
